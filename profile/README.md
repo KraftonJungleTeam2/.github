@@ -8,8 +8,8 @@
 ![포스터](https://github.com/user-attachments/assets/4ee568fd-6131-4306-9161-abea26e1ef43)
 
 > ### 기술 스택
-> FE - react, redux, web worker
+> **FE - react, redux, webRTC**
 > <br>
-> BE - node (express), postgresql, redis
+> **BE - node (express), postgresql, redis**
 > <br>
-> AI Worker - flask, celery
+> **AI Worker - flask, celery**
